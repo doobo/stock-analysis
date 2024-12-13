@@ -19,7 +19,7 @@
 * 筛选总市值，市盈率，股价，上市时间，量比，换手率
 * 筛选财务数据，每股净资产率，资产负债率，股本流通率
 * 曲线筛选，红三兵，绿三兵，平三兵，三连阳等
-* 筛选MACD，KDJ，RSI，SAR，W&R，SAR,CCI指标
+* 筛选MACD，KDJ，RSI，SAR，W&R，SAR，CCI指标
 
 ## 安装方式
 * [下载该系统，页面中点"下载zip"](https://gitcode.com/didton/stock-analysis/overview)
